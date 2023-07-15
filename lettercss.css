@@ -1,0 +1,49 @@
+* {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+#container {
+  margin-left: 500px;
+  height: 1000px;
+  width: 500px;
+}
+#Ilogo {
+  float: right;
+  width: 140px;
+  height: 140px;
+}
+
+#head1 {
+  font-size: 25px;
+  color: rgb(112, 9, 246); /*use this color*/
+}
+
+#head2 {
+  color: rgb(112, 9, 246);
+  font-size: 30px;
+  font-weight: bold;
+}
+#id1 {
+  color: rgb(119, 9, 246);
+  font-size: 30px;
+  float: right;
+}
+#id2 {
+  color: black;
+  font-size: 25px;
+}
+#sign {
+  width: 100px;
+  height: 100px;
+}
+#desig {
+  color: rgb(119, 9, 246);
+}
+#msme {
+  float: right;
+  width: 150px;
+  height: 150px;
+}
+a {
+  color: blue;
+  padding-left: 180px;
+}
